@@ -1,0 +1,12 @@
+h1 {
+    color:blueviolet;
+    text-align: center;
+    text-decoration: underline;
+}
+html {
+    background: url(https://images5.alphacoders.com/111/thumb-1920-1115214.jpg);
+    background-size:cover 
+}
+html {
+    font-size: 20px;
+}
